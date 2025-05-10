@@ -1,1 +1,2 @@
 # classifying-dogs
+In this project, I used a convolutional neural network (CNN) to classify different dog images by breed, where the breed associated with each image serves as the classification label. I then explored supervised pretraining, a type of transfer learning that uses a feature representation learned on a related task to further augment my classification abilities. Finally, I also tried out a new architecture — Vision Transformers (ViT) — that borrows ideas from the original transformer architecture, which is used for language tasks.
